@@ -1,0 +1,12 @@
+[2025-02-01T12:30:36.719Z] Visited the Wise staging site 1
+[2025-02-01T12:30:39.500Z] Logged in as Tutor
+[2025-02-01T12:30:39.604Z] Institute name verified successfully
+[2025-02-01T12:30:39.663Z] Driver quit
+[2025-02-01T12:30:43.958Z] Visited the Wise staging site
+[2025-02-01T12:30:44.893Z] Logged in as Tutor
+[2025-02-01T12:30:47.781Z] Navigated to Classroom for Automated testing
+[2025-02-01T12:30:48.385Z] Classroom opened successfully
+[2025-02-01T12:30:52.259Z] Session creation page opened
+[2025-02-01T12:30:54.471Z] Error: element click intercepted: Element <input id="input-678" type="text" autocomplete="off"> is not clickable at point (555, 487). Other element would receive the click: <div class="custom-alert-overlay"></div>
+  (Session info: chrome=132.0.6834.159)
+[2025-02-01T12:30:54.574Z] Driver quit
