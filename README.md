@@ -153,8 +153,3 @@ npm test
 ## Contributing
 
 We welcome contributions! If you have improvements or bug fixes, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
